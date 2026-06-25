@@ -282,6 +282,4 @@ Loan-Data-Analysis-Pipeline
 
 Aspiring Data Analyst | SQL | Power BI | Snowflake | AWS | Python
 
-LinkedIn: (Add your profile)
-
-GitHub: (Add your GitHub)
+LinkedIn: https://www.linkedin.com/in/yaksh-chudasama-941382326-gec-ldce-it-dte/
