@@ -233,19 +233,20 @@ AVERAGE(LOAN_DATA[ApplicantIncome])
 
 ## Loan Default & Overview
 
-![Overview](Dashboard Images/overview.jpg)
+![Overview](Dashboard%20Images/overview.jpg)
 
 ---
 
 ## Applicant Demographics
 
-![Demographics](Dashboard Images/applicant_demographics.jpg)
+![Demographics](Dashboard%20Images/applicant_demographics.jpg)
 
 ---
 
 ## Financial Risk Metrics
 
-![Risk](Dashboard Images/financial_risk_metrics.jpg)
+
+![Risk](Dashboard%20Images/financial_risk_metrics.jpg)
 
 ---
 
