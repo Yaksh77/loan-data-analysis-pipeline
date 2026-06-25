@@ -1,0 +1,7 @@
+-- Convert LoanDate to DATE
+
+ALTER TABLE LOAN_DATA
+ADD COLUMN Loan_Date DATE;
+
+UPDATE LOAN_DATA
+SET Loan_Date = TO_DATE(LoanDate,'DD/MM/YYYY');
